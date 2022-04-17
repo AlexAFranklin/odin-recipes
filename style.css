@@ -5,23 +5,41 @@ body {
     background-color: rgb(230, 150, 150);
 }
 
+#lasagna {
+    background-color: rgb(230, 185, 133);
+    text-align: center;
+}
+
+#borscht {
+    background-color: rgb(230, 185, 133);
+    text-align: center;
+}
+
+#redlentildal {
+    background-color: rgb(230, 185, 133);
+    text-align: center;
+}
+
 .list {
     font-size: 20px;
     color: rgb(52, 54, 56);
     text-decoration: none;
 }
 
-
 a:hover {
     color: black;
 }
-
 
 ul {
     list-style-position: inside;
     
 }
 
-.title {
+ol {
+    list-style-position: inside;
+    
+}
+
+h1 {
     font-size: 60px;
 }
