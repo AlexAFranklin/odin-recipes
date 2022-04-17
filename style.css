@@ -2,7 +2,7 @@
 body {
     font-family: Monaco, 'Courier New', monospace;
     text-align: right;
-    background-color: rgb(230, 150, 150);
+    background-color: rgb(192, 220, 180);
 }
 
 #lasagna {
@@ -11,7 +11,7 @@ body {
 }
 
 #borscht {
-    background-color: rgb(230, 185, 133);
+    background-color: rgb(230, 102, 102);
     text-align: center;
 }
 
