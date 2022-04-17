@@ -1,0 +1,27 @@
+
+body {
+    font-family: Monaco, 'Courier New', monospace;
+    text-align: right;
+    background-color: rgb(230, 150, 150);
+}
+
+.list {
+    font-size: 20px;
+    color: rgb(52, 54, 56);
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: black;
+}
+
+
+ul {
+    list-style-position: inside;
+    
+}
+
+.title {
+    font-size: 60px;
+}
